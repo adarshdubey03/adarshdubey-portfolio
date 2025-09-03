@@ -1,0 +1,88 @@
+"Build me a beautiful and professional portfolio website for a Full Stack Developer named Adarsh Dubey. Use Next.js + Tailwind CSS + Framer Motion for styling and animations. The website must be fully responsive, modern, and elegant. Use soft shadows, rounded corners, and minimalistic typography. Include the following sections with these contents:
+
+1. Hero Section
+
+Name: Adarsh Dubey
+
+Tagline: “Full Stack Developer | MERN | TypeScript | MongoDB | React”
+
+Subtext: “I build scalable web applications and craft clean user experiences.”
+
+Call-to-Action buttons: View Projects and Contact Me
+
+2. About Me
+
+Short Bio:
+“I am a passionate Full Stack Developer and a first-year Integrated MSc Mathematics student at SVNIT Surat. I specialize in building modern web applications using the MERN stack, TypeScript, and Next.js. With experience in authentication, payments, APIs, and real-world projects, I focus on delivering professional-grade solutions.”
+
+Skills List: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Mongoose, Tailwind CSS, Firebase, Git/GitHub
+
+Profile Image: placeholder (circular, center aligned)
+
+3. Projects Section (grid of cards with hover effects)
+
+StepUpNow (Mentorship Platform)
+
+Description: A platform that connects freshers with placed seniors for 1-on-1 mentorship, payments, reviews, and community chat.
+
+Tech: Next.js, MongoDB, Razorpay, Firebase OTP
+
+Links: GitHub + Live Demo
+
+Pavan Glass Works (Business Website)
+
+Description: A professional business website for a glassworks company, showcasing services and contact details with a modern UI.
+
+Tech: Next.js, Tailwind
+
+Links: GitHub + Live Demo
+
+FindScan (Fintech Assignment)
+
+Description: A fintech frontend project implementing Bollinger Bands indicator using KLineCharts.
+
+Tech: Next.js, TypeScript, Tailwind, KLineCharts
+
+Links: GitHub + Live Demo
+
+Portfolio Website
+
+Description: My personal developer portfolio showcasing my work, skills, and experience.
+
+Tech: Next.js, Tailwind, Framer Motion
+
+Links: GitHub + Live Demo
+
+4. Experience / Education (Timeline style)
+
+2024 – Present: Integrated MSc Mathematics, SVNIT Surat
+
+2025 – Present: Founder & Developer of StepUpNow (startup project)
+
+2024 – 2025: Built client project Pavan Glass Works website
+
+2023 – Present: Learning & working with MERN stack, TypeScript, MongoDB
+
+5. Contact Section
+
+Heading: “Let’s Connect”
+
+Contact Form: Name, Email, Message + Submit button
+
+Social Media Icons with links:
+
+GitHub → https://github.com/adarshdubey03
+
+LinkedIn → (your LinkedIn link here)
+
+Twitter/X → (if you have one)
+
+Email → adarshdubey2005@gmail.com
+
+6. Footer
+
+Text: “© 2025 Adarsh Dubey. All Rights Reserved.”
+
+Minimal, centered, with soft gray text
+
+Add smooth scroll, section reveal animations, hover effects on buttons and cards, and responsive layouts for mobile and desktop.
